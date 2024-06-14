@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ldistedrafle.github.io/sitemap
+Sitemap: https://ldistedrafle.github.io/app/sitemap
+Sitemap: https://ldistedrafle.github.io/assets/sitemap
+Sitemap: https://ldistedrafle.github.io/css/sitemap
+Sitemap: https://ldistedrafle.github.io/includes/sitemap
+Sitemap: https://ldistedrafle.github.io/item/sitemap
+Sitemap: https://ldistedrafle.github.io/src/sitemap
